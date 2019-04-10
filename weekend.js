@@ -7,7 +7,7 @@ function addTo() {
   var newSpending = document.createElement("ol")
   newSpending.innerHTML = value
   newSpending.onclick = clear
-  spendings.appendChild(Spending)
+  spendings.appendChild(newSpending)
 }
 
 function clear() {
