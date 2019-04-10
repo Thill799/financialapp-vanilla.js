@@ -9,6 +9,8 @@ function addTo() {
   newSpending.onclick = clear;
   spendings.appendChild(newSpending);
   console.log(newSpending.length);
+  const reducer = (accumulator, currentValue) => accumulator + currentValue;
+  console.log(newSpending.reduce(reducer));
 }
 
 function clear() {
