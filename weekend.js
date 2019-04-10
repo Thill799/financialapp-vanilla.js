@@ -8,7 +8,7 @@ function addTo() {
   newSpending.innerHTML = value;
   newSpending.onclick = clear;
   spendings.appendChild(newSpending);
-  console.log(fruits.length);
+  console.log(newSpending.length);
 }
 
 function clear() {
