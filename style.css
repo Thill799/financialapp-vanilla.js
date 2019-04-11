@@ -13,7 +13,7 @@
   }
 
   input{
-      color:#ad6800bb
+      color:#ad6800bb;
   }
 
   ul{
@@ -23,12 +23,13 @@
   .totalAmount{
     font-style:oblique;
     font-family:arial;
+    font-weight:bold;
       color:#ad0000;
 
   }
 
   #total{
-      font-size: 200%;
+      font-size: 50px;
       font-family:system-ui;
       color:#247a02;
 
