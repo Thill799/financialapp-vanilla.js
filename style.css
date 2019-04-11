@@ -19,12 +19,14 @@
   }
 
   input{
-      color:#0a0d205d;
+      color:#0000005d;
+      font-size:25px;
   }
 
   ul{
       color:rgb(238, 255, 0);
       font-size:30px;
+      font-style:arial;
   }
 
   .totalAmount{
