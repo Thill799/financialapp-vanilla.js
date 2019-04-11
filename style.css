@@ -2,10 +2,16 @@
     padding: 15px;
     height: 360px;
     width: 350px;
-    background-color: #444;
+    background-color: rgba(21, 69, 107, 0.993);
     border-radius: 5px;
   }
   
   h1 {
-    color:#2f7fd6;
+    font:sans-serif;
+    color:#ffffff;
+
+  }
+
+  ul{
+      color:rgb(238, 255, 0);
   }
