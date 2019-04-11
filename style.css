@@ -1,9 +1,8 @@
-#boarder {
- background-color: #000000;
-  }
-  
+tittle{
+  margin-left:45px;
+}
 
-  .weekend{
+.weekend{
     font-style:"Gill Sans", sans-serif;
     color:#0068c9;
     background-color:#ffffff;
