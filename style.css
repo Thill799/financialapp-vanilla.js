@@ -13,11 +13,15 @@
   }
 
   input{
-      color:#ad0000
+      color:#ad6800bb
   }
 
   ul{
       color:rgb(238, 255, 0);
+  }
+
+  .totalAmount{
+      color:#ad0000;
   }
 
   #total{
