@@ -4,9 +4,11 @@ tittle{
 }
 
 .weekend{
-    font-style:"Gill Sans", sans-serif;
+    font-style:"Gill Sans", sans-serif, italic;
+    text-decoration: overline;
     color:#0068c9;
     background-color:#ffffff;
+
   }
 
   input{
