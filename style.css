@@ -7,7 +7,7 @@
   }
   
   h1 {
-    font:"Gill Sans", sans-serif;
+    font-style:"Gill Sans", sans-serif;
     color:#ffffff;
 
   }
@@ -21,7 +21,10 @@
   }
 
   .totalAmount{
+    font-style:oblique;
+    font-family:arial;
       color:#ad0000;
+
   }
 
   #total{
