@@ -12,12 +12,17 @@
 
   }
 
+  input{
+      color:#ad0000
+  }
+
   ul{
       color:rgb(238, 255, 0);
   }
 
   #total{
-      font-size: 100%;
+      font-size: 200%;
       font-family:system-ui;
+      color:#247a02;
 
   }
