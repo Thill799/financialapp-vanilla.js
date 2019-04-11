@@ -7,11 +7,17 @@
   }
   
   h1 {
-    font:sans-serif;
+    font:"Gill Sans", sans-serif;
     color:#ffffff;
 
   }
 
   ul{
       color:rgb(238, 255, 0);
+  }
+
+  #total{
+      font-size: 100%;
+      font-family:system-ui;
+
   }
