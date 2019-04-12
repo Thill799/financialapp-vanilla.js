@@ -1,15 +1,12 @@
-head{
+header{
   background-color:rgb(255, 218, 52);
-}
-
-tittle{
   font-style:italic;
   font-family:arial;
   text-align:center;
   color:white;
   font-size:29px;
-
 }
+
 
 .tweekend{
     font-style:italic;
