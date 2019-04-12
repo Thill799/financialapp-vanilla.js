@@ -2,6 +2,7 @@
   font-style:italic;
   font-family:arial;
   text-align:center;
+  background-color:#ffffff;
   font-size:29px;
 
 }
@@ -15,8 +16,7 @@
     font-family:arial;
     text-decoration: underline;
     color:#0068c9;
-    background-color:#ffffff;
-
+   
   }
 
   .tspendings{
