@@ -7,28 +7,20 @@
 
 }
 
-.char1{
-  color:black:
-}
-.char2{
-  color:pink:
-}
-.char3{
-  color:blue;
-}
-.char4{
-  color:green;
-}
 .tweekend{
     font-style:italic;
     font-family:arial;
     text-decoration: underline;
-    color:#0068c9;
     background-color:#ffffff;
-
-   
   }
 
+  .tweekend:nth-child(1){
+    color:red;
+  }
+
+  .tweekend:nth-child(2){
+    color:blue;
+  }
  
 
 
