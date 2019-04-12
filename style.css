@@ -7,21 +7,30 @@
 
 }
 
-.tyour{
-  color:rgb(101, 165, 28);
+.char1{
+  color:black:
 }
-
+.char2{
+  color:pink:
+}
+.char3{
+  color:blue;
+}
+.char4{
+  color:green;
+}
 .tweekend{
     font-style:italic;
     font-family:arial;
     text-decoration: underline;
     color:#0068c9;
+    background-color:#ffffff;
+
    
   }
 
-  .tspendings{
-    color:rgb(167, 60, 167);
-  }
+ 
+
 
   input{
       color:#0000005d;
