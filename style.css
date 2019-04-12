@@ -5,7 +5,8 @@ tittle{
 }
 
 .weekend{
-    font-style:"Gill Sans", sans-serif, italic;
+    font-style:italic;
+    font-family:arial;
     text-decoration: overline;
     color:#0068c9;
     background-color:#ffffff;
