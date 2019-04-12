@@ -1,12 +1,13 @@
 header{
   background-color:rgb(255, 218, 52);
   font-style:italic;
-  font-family:arial;
-  text-align:center;
   color:white;
   font-size:29px;
 }
 
+.header{
+  margin-left:40px;
+}
 .w{
   color:rgb(50, 50, 201);
   background-color:rgb(255, 218, 52);
