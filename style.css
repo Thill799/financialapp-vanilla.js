@@ -7,16 +7,24 @@ header{
   font-size:29px;
 }
 
+.w{
+  color:rgb(50, 50, 201);
+  background-color:rgb(255, 218, 52);
+}
 
-.tweekend{
-    font-style:italic;
-    font-family:arial;
-    text-decoration: underline;
-    color:rgb(49, 49, 163);
-    background-color:#ffffff;
-  }
+.e{
+  color:rgb(36, 148, 36);
+  background-color:rgb(255, 218, 52);
+}
 
-
+.e2{
+  color:rgb(148, 39, 39);
+  background-color:rgb(255, 218, 52);
+}
+.k{
+  color:rgb(233, 143, 40)
+  background-color:rgb(255, 218, 52);
+}
   input{
       color:#0000005d;
       font-size:25px;
