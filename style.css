@@ -1,17 +1,26 @@
 .tittle{
+  font-style:italic;
+  font-family:arial;
   text-align:center;
   font-size:29px;
 
 }
 
-.weekend{
+.tyour{
+  color:rgb(101, 165, 28);
+}
+
+.tweekend{
     font-style:italic;
     font-family:arial;
     text-decoration: underline;
-    text-align: center;
     color:#0068c9;
     background-color:#ffffff;
 
+  }
+
+  .tspendings{
+    color:rgb(167, 60, 167)
   }
 
   input{
