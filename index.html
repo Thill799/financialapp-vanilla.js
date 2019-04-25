@@ -15,35 +15,49 @@
 
 <header>
 <div class="header">
-   your
- <span class="w">w</span> 
- <span class="e">e</span> 
- <span class="e2">e</span> 
- <span class="k">k</span> 
- <span class="e3">e</span> 
- <span class="n">n</span> 
- <span class="d">d</span> 
-    spendings 
+   Money Tracker
 </div>
 </header>
 
 
 <body>
  
-<div class="input-group mb-3">
-        <div class="input-group-prepend">
-          <span class="input-group-text">$</span>
-        </div>
-<input type="number" id="amount">
-<button onclick="addTo()" class="btn btn-outline-secondary" type="button">Enter</button>
- </div>
+<br>
+    
+  
+<div class="input-group">
+  <div class="input-group-prepend">
+    <span class="input-group-text">Amount & Item</span>
+    
+  </div>
 
+    
+    <input type="number" id="amount" placeholder="amount" pattern="[0-9]"required></input>
+    
+  <input type="text" id="item" placeholder="item" aria-label="description" class="form-control"required></input>
+    
+<input type="button" onclick ="addTo()" value="submit">
+ 
+  
+</div>
 
-<ul id="spendings"></ul>
+<br>
+<br>
+
+<table class="table" border=1 id="myTable">
+ <tr class="table-info">
+    <td>Amount</td>
+    <td>Item</td>
+  </tr>
+ </table>
+  
+<br>
+<br>
+ 
 <div class="totalAmount">Total Amount:</div>
 <div id="total"></div>
+<div id="spendings"></div>
 </body>
 
 <script src="index.js"></script>
 </html>
-
