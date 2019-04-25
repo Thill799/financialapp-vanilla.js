@@ -1,54 +1,37 @@
 header{
-  background-color:rgb(255, 218, 52);
-  font-style:italic;
+  background: linear-gradient(to bottom right, #00F260, #a17fe0);
+  padding: 20px 15px;
   color:white;
-  font-size:29px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
+
 
 .header{
-  text-align:center;
-  
-}
-.w{
-  color:rgb(50, 50, 201);
-  background-color:rgb(255, 218, 52);
-}
+    font-family: "Open Sans", sans-serif;
+    font-weight: 300;
+    font-size: 2.25rem;
+    text-align:center;
+  }
 
-.e{
-  color:rgb(36, 148, 36);
-  background-color:rgb(255, 218, 52);
+.weekend{
+  font-style:italic;
+  color:#c2f2e2;
 }
-
-.e2{
-  color:rgb(148, 39, 39);
-  background-color:rgb(255, 218, 52);
-}
-.k{
-  color:rgb(233, 143, 40);
-  background-color:rgb(255, 218, 52);
-}
-.e3{
-  color:rgb(214, 100, 119);
-  background-color:rgb(255, 218, 52);
-}
-.n{
-  color:rgb(170, 48, 170);
-  background-color:rgb(255, 218, 52);
-}
-.d{
-  color:rgb(50, 50, 201);
-  background-color:rgb(255, 218, 52);
-}
-
 
   input{
       color:#0000005d;
       font-size:25px;
   }
 
+table{
+  margin: 0 auto;
+}
 
   ul{
-      color:rgb(238, 255, 0);
+      color:;
       font-size:30px;
       font-style:arial;
   }
@@ -58,12 +41,19 @@ header{
     font-family:arial;
     font-weight:bold;
       color:#ad0000;
+    text-align:center;
 
   }
 
   #total{
+      text-align:center;
       font-size: 50px;
       font-family:system-ui;
-      color:#247a02;
+      color:#black;
 
-  }
+}
+
+#spendings{
+  color:white;
+  font-size:1px;
+}
