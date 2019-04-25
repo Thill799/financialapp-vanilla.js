@@ -24,20 +24,19 @@
  
 <br>
     
-  
 <div class="input-group">
   <div class="input-group-prepend">
     <span class="input-group-text">Amount & Item</span>
     
   </div>
 
-    
+     <form onsubmit="addTo();return false; required">
     <input type="number" id="amount" placeholder="amount" pattern="[0-9]"required></input>
     
   <input type="text" id="item" placeholder="item" aria-label="description" class="form-control"required></input>
     
 <input type="button" onclick ="addTo()" value="submit">
- 
+    </form>
   
 </div>
 
